@@ -1,4 +1,4 @@
-﻿// ClassD.A.1
+﻿// ClassD.A.2
 #include <Windows.h>
 #include <iostream>
 using std::cin;
